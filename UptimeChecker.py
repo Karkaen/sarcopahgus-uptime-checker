@@ -23,5 +23,3 @@ while True :
             print("Wrong wallet address.Please check it before trying again")
     except :
         print("not exist")
-
-# 0x7c2dC9d2f6C9Ba7581fADa1fe6d0BBf0317c5208
